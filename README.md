@@ -1,2 +1,2 @@
-# react-native-multiplier
-Library testing with multiplier
+# react-native-multiplier 
+Library testing with multiplier.
